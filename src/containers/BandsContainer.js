@@ -5,7 +5,7 @@ class BandsContainer extends Component {
   render() {
     return(
       <div>
-        <BandsContainer />
+        <BandsInput />
       </div>
     )
   }
